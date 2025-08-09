@@ -29,4 +29,4 @@ It is designed to improve the **visibility, contrast, and quality** of low-light
 Below is a collage showing the performance of the **Low-Light Image Enhancement** algorithm.  
 The **top row** contains the original **low-light input images**, and the **bottom row** contains the corresponding **enhanced output images**.
 
-![Low-Light Enhancement Comparison](comparison.png)
+![Low-Light Enhancement Comparison]([comparison.png](https://github.com/namansingla05/lowlight-retinex-enhancement/blob/main/Screenshot%202025-08-09%20221049.png))
